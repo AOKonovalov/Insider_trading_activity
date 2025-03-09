@@ -6,4 +6,4 @@
 
 **Результат:** процесс полностью автоматизирован, нужно только обновлять выгрузки
 
-**Стек:** python(numpy, pandas, datetime)
+**Стек:** Python (numpy, pandas, datetime)
